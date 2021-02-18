@@ -127,6 +127,17 @@ main {
     min-width: 288px;
     max-width: 900px;
     margin: 0 auto;
-    
+
+}
+
+.main-exchange-container .backgroundIMG {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    background-image: url("./assets/imgs/Bitcoin.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
