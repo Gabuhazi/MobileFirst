@@ -49,4 +49,14 @@ header img {
     align-self: center;
 }
 
+.header--title-container {
+    width: 90%;
+    min-width: 288px;
+    max-width: 900px;
+    height: 218px;
+    margin-top: 50px;
+    text-align: center;
+    align-self: center;
+}
+
 
